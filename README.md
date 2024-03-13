@@ -11,6 +11,6 @@
  
  - [Task 3 - Car Prediction With Machine Learning](https://github.com/Mukona21/OIBSIP/tree/3be139e3e699d744d186bdc8ae238b250c0fa1d3/Task%203%20-%20Car%20Price%20Prediction%20With%20Machine%20Leanrning)
  
- - [Task 4 - Email Spam Detection With Machine Learning](https://github.com/Wydoinn/OIBSIP/tree/main/Task%204%20-%20Email%20Spam%20Detection%20With%20Machine%20Learning)
+ - [Task 4 - Email Spam Detection With Machine Learning](https://github.com/Mukona21/OIBSIP/tree/b438f80b30a610cd4ab488d4603a4c13eb706dcf/Task%204%20-%20Email%20Spam%20Detection%20With%20Machine%20Learning)
  - [Task 5 - Sales Predicition Using Python](https://github.com/Wydoinn/OIBSIP/tree/main/Task%205%20-%20Sales%20Prediction%20Using%20Python)
 
